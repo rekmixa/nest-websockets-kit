@@ -1,6 +1,7 @@
-# nest-ts-kit
+# nest-websockets-kit
 
-> Nest TS
+> Nest TS  
+> @nestjs/platform-ws
 
 ## Installation
 

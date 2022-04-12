@@ -11,9 +11,9 @@ services:
         max-file: '3'
     environment:
       HOST: 0.0.0.0
-      PORT: 3000
+      PORT: 3005
     expose:
-      - 3000
+      - 3005
     volumes:
       - ./:/home/node/app
       - ./docker/node/bootstrap.sh:/usr/local/bin/bootstrap.sh
